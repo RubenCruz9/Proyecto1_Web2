@@ -1,9 +1,9 @@
 Diagrama:
-![Diagram](Diagrama.PNG)
+![Diagram](Diagrama.png)
 
 Capturas:
-![Training](Train.PNG)
-![Testing](Test.PNG)
+![Training](Train.png)
+![Testing](Test.png)
 
 Tecnologias:
 * JavaScript
